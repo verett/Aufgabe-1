@@ -19,7 +19,6 @@ Name | Begründung
 
 ## Installation / Ausführen des Projektes
 
----
 
 Folgende Komponenten müssen lokal installiert sein:
 
