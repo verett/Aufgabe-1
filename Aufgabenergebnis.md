@@ -6,7 +6,7 @@ Folgende Technologien / Frameworks setze ich in meinem Projekt ein:
 
 - Python
 
-Ich habe mich für Python entschieden, weil ich dachte, dass ich so mehr über Python lerne.
+Ich habe mich für Python entschieden, um mehr über Python zu lernen.
 
 ## Eingesetzte 3rd Party Libraries
 
