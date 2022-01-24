@@ -19,10 +19,6 @@ Name | Begründung
 
 ## Installation / Ausführen des Projektes
 
-Beschreibe, wie wir uns das Projekt lokal anschauen können.
-
-Zum Beispiel:
-
 ---
 
 Folgende Komponenten müssen lokal installiert sein:
@@ -31,6 +27,6 @@ Folgende Komponenten müssen lokal installiert sein:
 
 
 Um das Projekt lokal auszuführen:
-
 Downloaden Sie die Datei und führen Sie diese in Python aus.
+
 ---
